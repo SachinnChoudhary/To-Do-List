@@ -27,5 +27,6 @@ A simple, responsive To-Do List web application that allows users to manage thei
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/SachinnChoudhary/To-Do-List
    cd todo-list-app
+   
